@@ -40,3 +40,10 @@ This project is licensed under [GPL v3](LICENSE).
 * Added missing LootContextParams#KILLER_ENTITY/THIS_ENTITY builder fixed LootJS#FISHING event cannot be called
 * Add PlayerDataFixer
 * Fixed worldBorder
+* Updated to forge 43.4.0
+* Add LivingEntity#getTargetEntity API from Paper
+* Implement ChunkStats
+* Fixed mixin conflict with fruitsdelight mod
+* Fixed mixin conflict with bettercombat mod
+* Fixed mixin conflict with spoornarmorattributes mod
+* Fixed mixin conflict with caverns_and_chasms mod
