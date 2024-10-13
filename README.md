@@ -1,9 +1,25 @@
 # ~~Arclight~~ Fluorite（Forked from Arclight）
 
+# ⚠️ Project Deprecated
+
+This project was initially designed to automatically synchronize and build from an upstream repository. However, as the upstream project has been deleted, this repository can no longer function as intended. This project is no longer maintained.
+
+Thank you for your interest and support.
+
+---
+
+# ⚠️ 项目已停止维护
+
+本项目原本用于自动同步上游项目并进行构建。然而，由于上游项目已删除，无法继续同步和构建，因此本项目不再维护。
+
+感谢大家的关注与支持。
+
+---
+
 A Bukkit server implementation utilizing Mixin.
 
-| Release | Forge  | Status |                            Build                             |
-| :-----: | :----: | :----: | :----------------------------------------------------------: |
+| Release | Forge  | Status |                                                                         Build                                                                          |
+| :-----: | :----: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 1.19.2  | 43.3.8 | ACTIVE | [![1.19 Status](https://img.shields.io/appveyor/build/IzzelAliz/arclight-19?style=flat-square)](https://ci.appveyor.com/project/IzzelAliz/arclight-19) |
 
 ## Installing
